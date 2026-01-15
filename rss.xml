@@ -2,29 +2,30 @@
 <rss version="2.0">
     <channel>
         <title>Test Blog</title>
-        <link>https://appreview.postalgic.app/</link>
+        <link>https://test.postalgic.app/</link>
         <description>Posts from Test Blog</description>
         <lastBuildDate>Thu, 15 Jan 2026 21:09:45 GMT</lastBuildDate>
         <generator>Postalgic</generator>
         <docs>https://www.rssboard.org/rss-specification</docs>
+        <managingEditor>Brad Root</managingEditor>
 
         <item>
             <title>Test post to see how auto publishing works</title>
-            <link>https://appreview.postalgic.app/2026/01/15/test-post-to-see-how-auto-publishing-works/</link>
+            <link>https://test.postalgic.app/2026/01/15/test-post-to-see-how-auto-publishing-works/</link>
             <description><![CDATA[<p>Test post to see how auto publishing works</p>]]></description>
             <pubDate>Thu, 15 Jan 2026 20:56:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/15/test-post-to-see-how-auto-publishing-works/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/15/test-post-to-see-how-auto-publishing-works/</guid>
         </item>
         <item>
             <title>New Post 2</title>
-            <link>https://appreview.postalgic.app/2026/01/02/new-post-2-2/</link>
+            <link>https://test.postalgic.app/2026/01/02/new-post-2-2/</link>
             <description><![CDATA[<p>New Post 2</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 20:47:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/new-post-2-2/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/02/new-post-2-2/</guid>
         </item>
         <item>
             <title>New Post!</title>
-            <link>https://appreview.postalgic.app/2026/01/02/new-post-3/</link>
+            <link>https://test.postalgic.app/2026/01/02/new-post-3/</link>
             <description><![CDATA[<p>New Post!</p>
 <div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767384518-7BC0EE6F-00.png" class="lightbox-trigger" data-lightbox="embed-49b154cf-f33b-4ebb-b970-a957b3168d9f" data-title="">
@@ -32,11 +33,11 @@
     </a>
 </div>]]></description>
             <pubDate>Fri, 02 Jan 2026 20:08:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/new-post-3/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/02/new-post-3/</guid>
         </item>
         <item>
             <title>EL SCORCHO</title>
-            <link>https://appreview.postalgic.app/2026/01/02/el-scorcho/</link>
+            <link>https://test.postalgic.app/2026/01/02/el-scorcho/</link>
             <description><![CDATA[<p>EL SCORCHO</p>
 <div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767379998-18F5FE57-00.png" class="lightbox-trigger" data-lightbox="embed-98512694-2f00-4b0d-8472-88dee6b2ef90" data-title="">
@@ -44,11 +45,11 @@
     </a>
 </div>]]></description>
             <pubDate>Fri, 02 Jan 2026 18:53:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/el-scorcho/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/02/el-scorcho/</guid>
         </item>
         <item>
             <title>Fart</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-6/</link>
+            <link>https://test.postalgic.app/2026/01/02/fart-6/</link>
             <description><![CDATA[<p>Fart</p>
 <div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767342479-D933C67D-00.jpg" class="lightbox-trigger" data-lightbox="embed-C40CBDA9-DD90-4A76-A4C2-1DA7AEF0B12D" data-title="">
@@ -56,18 +57,18 @@
     </a>
 </div>]]></description>
             <pubDate>Fri, 02 Jan 2026 08:27:43 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-6/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/02/fart-6/</guid>
         </item>
         <item>
             <title>New Post from iOS</title>
-            <link>https://appreview.postalgic.app/2026/01/02/new-post-from-ios/</link>
+            <link>https://test.postalgic.app/2026/01/02/new-post-from-ios/</link>
             <description><![CDATA[<p>New Post from iOS</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 08:17:28 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/new-post-from-ios/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/02/new-post-from-ios/</guid>
         </item>
         <item>
             <title>Poopy</title>
-            <link>https://appreview.postalgic.app/2026/01/02/poopy/</link>
+            <link>https://test.postalgic.app/2026/01/01/poopy/</link>
             <description><![CDATA[<div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767327190-FE1A8B26-00.png" class="lightbox-trigger" data-lightbox="embed-55cbad93-bff9-4744-8c5c-7d325f4f9511" data-title="">
         <img src="/images/embeds/embed-1767327190-FE1A8B26-00.png" class="embed-image" alt="">
@@ -75,53 +76,53 @@
 </div>
 <p>Poopy</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 04:12:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/poopy/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/poopy/</guid>
         </item>
         <item>
             <title>Fart 7</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-7/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-7/</link>
             <description><![CDATA[<p>Fart 7</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 04:11:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-7/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-7/</guid>
         </item>
         <item>
             <title>Fart 5</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-5/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-5/</link>
             <description><![CDATA[<p>Fart 5</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 03:22:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-5/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-5/</guid>
         </item>
         <item>
             <title>Fart 4</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-4/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-4/</link>
             <description><![CDATA[<p>Fart 4</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 03:04:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-4/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-4/</guid>
         </item>
         <item>
             <title>Fart 3</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-3/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-3/</link>
             <description><![CDATA[<p>Fart 3</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 02:51:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-3/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-3/</guid>
         </item>
         <item>
             <title>Fart 2</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-2-2/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-2-2/</link>
             <description><![CDATA[<p>Fart 2</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 02:37:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-2-2/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-2-2/</guid>
         </item>
         <item>
             <title>Fart 1</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-1/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-1/</link>
             <description><![CDATA[<p>Fart 1</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:51:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-1/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-1/</guid>
         </item>
         <item>
             <title>Fart</title>
-            <link>https://appreview.postalgic.app/2026/01/02/fart-2/</link>
+            <link>https://test.postalgic.app/2026/01/01/fart-2/</link>
             <description><![CDATA[<p>Fart</p>
 <div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767315018-955CB97B-00.png" class="lightbox-trigger" data-lightbox="embed-f9ae95dd-7a59-4a71-9b7c-17b4c04dfc47" data-title="">
@@ -129,26 +130,26 @@
     </a>
 </div>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:50:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/fart-2/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/fart-2/</guid>
         </item>
         <item>
             <title>Even newer test post</title>
-            <link>https://appreview.postalgic.app/2026/01/02/even-newer-test-post/</link>
+            <link>https://test.postalgic.app/2026/01/01/even-newer-test-post/</link>
             <description><![CDATA[<p>Even newer test post</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:44:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/even-newer-test-post/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/even-newer-test-post/</guid>
             <category>Test Posts</category>
         </item>
         <item>
             <title>Newest test post</title>
-            <link>https://appreview.postalgic.app/2026/01/02/newest-test-post/</link>
+            <link>https://test.postalgic.app/2026/01/01/newest-test-post/</link>
             <description><![CDATA[<p>Newest test post</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:37:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/newest-test-post/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/newest-test-post/</guid>
         </item>
         <item>
             <title>New post!!!</title>
-            <link>https://appreview.postalgic.app/2026/01/02/new-post-2/</link>
+            <link>https://test.postalgic.app/2026/01/01/new-post-2/</link>
             <description><![CDATA[<div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767313626-93856274-00.gif" class="lightbox-trigger" data-lightbox="embed-e1b3a442-3ca0-4234-9881-b9e2cf609ae3" data-title="">
         <img src="/images/embeds/embed-1767313626-93856274-00.gif" class="embed-image" alt="">
@@ -156,11 +157,11 @@
 </div>
 <p>New post!!!</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:26:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/new-post-2/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/new-post-2/</guid>
         </item>
         <item>
             <title>Ploop</title>
-            <link>https://appreview.postalgic.app/2026/01/02/ploop/</link>
+            <link>https://test.postalgic.app/2026/01/01/ploop/</link>
             <description><![CDATA[<p>Ploop</p>
 <div class="embed image-embed single-image">
     <a href="/images/embeds/embed-1767313365-2F59104D-00.jpg" class="lightbox-trigger" data-lightbox="embed-880ad98a-593d-4897-8f36-e7d2dc839527" data-title="">
@@ -168,21 +169,21 @@
     </a>
 </div>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:22:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/ploop/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/ploop/</guid>
         </item>
         <item>
             <title>Extra new test post</title>
-            <link>https://appreview.postalgic.app/2026/01/02/extra-new-test-post/</link>
+            <link>https://test.postalgic.app/2026/01/01/extra-new-test-post/</link>
             <description><![CDATA[<p>Extra new test post</p>]]></description>
             <pubDate>Fri, 02 Jan 2026 00:19:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2026/01/02/extra-new-test-post/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2026/01/01/extra-new-test-post/</guid>
         </item>
         <item>
             <title>Newer Test Post</title>
-            <link>https://appreview.postalgic.app/2025/12/15/newer-test-post/</link>
+            <link>https://test.postalgic.app/2025/12/15/newer-test-post/</link>
             <description><![CDATA[<p>Newer Test Post</p>]]></description>
             <pubDate>Mon, 15 Dec 2025 08:26:00 GMT</pubDate>
-            <guid isPermaLink="true">https://appreview.postalgic.app/2025/12/15/newer-test-post/</guid>
+            <guid isPermaLink="true">https://test.postalgic.app/2025/12/15/newer-test-post/</guid>
         </item>
     </channel>
 </rss>

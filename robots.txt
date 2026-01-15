@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://appreview.postalgic.app/sitemap.xml
+Sitemap: https://test.postalgic.app/sitemap.xml
