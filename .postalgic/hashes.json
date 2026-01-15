@@ -1,9 +1,12 @@
 {
   "version": 1,
-  "lastPublishedDate": "2026-01-15T22:10:52.807Z",
+  "lastPublishedDate": "2026-01-15T23:05:02.745Z",
   "publishedBy": "self-hosted",
   "fileHashes": {
     "css/style.css": "b2e2672b773c024376051f766aa483a5590da0ddabc731f7f89432649b6d1d5d",
+    "favicon-32x32.png": "bec0c9edfc46bb9152d4776e2d830d4744933dc87b73f22f68d0b1558da54264",
+    "favicon-192x192.png": "b092291c9c37089b8e590217902604c36f1e8c5b21ac2d084985d84f4622207b",
+    "apple-touch-icon.png": "7f1a6a1295c1f5301de2ba02c3407a06986e711ae5049e13523d8c7d60ebdfe4",
     "images/embeds/embed-1767384518-7BC0EE6F-00.png": "49e68195d35066d0965756f03e80b1fe1034305967d40f63b9841baa4f0c23c0",
     "images/embeds/embed-1767379998-18F5FE57-00.png": "49e68195d35066d0965756f03e80b1fe1034305967d40f63b9841baa4f0c23c0",
     "images/embeds/embed-1767342479-D933C67D-00.jpg": "5b895701deb70a8aa8fb6e4f6e82b0d16a4f7eaa566e99e6283cc40f9915ed5e",
@@ -86,7 +89,8 @@
     "sync/posts/cc23a186-3bbb-4823-9fc0-5680a1b630de.json": "ca3a235e193aab1342b031d65d987481f9847657b08af4f7e9d748bab0b9cbe7",
     "sync/posts/index.json": "7238c2bdfd02eac978444ff900019260ee1f6980d0ad6c5497c6ed1e18577221",
     "sync/sidebar/index.json": "09ee1b3a51a2abd495f51740a538a201ccc0235623d3b1c44701cbd5d7acda2a",
-    "sync/static-files/index.json": "602e35a92eec4bc0a2ec6ae113f07bfc6933322fb69fe8dee416e5a67217e2a2",
+    "sync/static-files/nonly-small.jpg": "d370962fe771d878bc1405ec2e95a055bd730c31cf79d5725f6f89225ad66bf0",
+    "sync/static-files/index.json": "c89e05413cd4759b2296618f8239a7619daac0c19313374528127bc8c94c6613",
     "sync/embed-images/embed-1767384518-7BC0EE6F-00.png": "49e68195d35066d0965756f03e80b1fe1034305967d40f63b9841baa4f0c23c0",
     "sync/embed-images/embed-1767379998-18F5FE57-00.png": "49e68195d35066d0965756f03e80b1fe1034305967d40f63b9841baa4f0c23c0",
     "sync/embed-images/embed-1767342479-D933C67D-00.jpg": "5b895701deb70a8aa8fb6e4f6e82b0d16a4f7eaa566e99e6283cc40f9915ed5e",
@@ -98,6 +102,6 @@
     "sync/embed-images/embed-1765771094-0D195411-00.jpg": "a93b39ea042655294959d17898d43196ee2b366a8b8d634b5160ba6bb7771c41",
     "sync/embed-images/embed-1765771094-8AC2DBF4-01.jpg": "e25bc25349e4b7d30f89ce4d505ebbc9d8f014d2dd36d2a5b8164b772e57a9d0",
     "sync/embed-images/index.json": "6603dc3a753511935b063958d42cae00ff89616468366fa6c483bcde0d63ec8e",
-    "sync/manifest.json": "5d989a68c525806368b92f39ee9a2997cc96295231fbf145d47a7e5e78ae2e65"
+    "sync/manifest.json": "74e0cfe578fa22a2936c74d65245ff1227d1f95950fa9113414d22171a4c77e0"
   }
 }
